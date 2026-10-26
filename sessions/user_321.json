@@ -1,0 +1,10 @@
+[
+  {
+    "type": "human",
+    "content": "What are the expected working hours for employees?"
+  },
+  {
+    "type": "ai",
+    "content": "Employees are expected to work 8 hours per working day, Monday through Friday."
+  }
+]

@@ -1,0 +1,175 @@
+TOTAL CHUNKS: 10
+PROSE: 7 | TABLES: 3
+================================================================================
+
+
+========== CHUNK 1 ==========
+
+TYPE: prose
+BREADCRUMB: Overview
+LENGTH: 394 chars
+--------------------------------------------------------------------------------
+PAGE CONTENT:
+## Overview  
+The **Ultimate Fighting Championship (UFC)** is an American mixed martial arts (MMA) promotion company based in Las Vegas, Nevada. Owned and operated by TKO Group Holdings (a subsidiary of Endeavor Group Holdings), it is the world's premier MMA organization, holding hundreds of events worldwide across various weight divisions governed by the Unified Rules of Mixed Martial Arts.
+
+********************************************************************************
+
+
+========== CHUNK 2 ==========
+
+TYPE: prose
+BREADCRUMB: Corporate & Operational History > The Early "No Holds Barred" Era (1993–2000)
+LENGTH: 800 chars
+--------------------------------------------------------------------------------
+PAGE CONTENT:
+## Corporate & Operational History  
+### The Early "No Holds Barred" Era (1993–2000)  
+Co-founded by Art Davie, Rorion Gracie, Campbell McLaren, and Bob Meyrowitz under SEG (Semaphore Entertainment Group), UFC 1 debuted on November 12, 1993. Marketed as a tournament to find the most effective martial art for real combat, early events featured zero weight classes, no gloves, and minimal rules (only biting and eye-gouging were banned). Brazilian Jiu-Jitsu pioneer Royce Gracie won three of the first four tournaments, proving the dominance of grappling disciplines.  
+Political opposition led by U.S. Senator John McCain—who famously dubbed the sport "human cockfighting"—resulted in bans across 36 states and removal from pay-per-view networks, driving SEG to the brink of bankruptcy by late 2000.
+
+********************************************************************************
+
+
+========== CHUNK 3 ==========
+
+TYPE: prose
+BREADCRUMB: Corporate & Operational History > The Zuffa Turnaround & Mainstream Boom (2001–2016)
+LENGTH: 807 chars
+--------------------------------------------------------------------------------
+PAGE CONTENT:
+### The Zuffa Turnaround & Mainstream Boom (2001–2016)  
+In January 2001, casino executives Frank and Lorenzo Fertitta, along with business partner Dana White, purchased the UFC for $2 million and formed **Zuffa, LLC**. Zuffa worked directly with state athletic commissions to standardize rules, introduce weight classes, and mandate protective equipment.  
+The company achieved profitability following the launch of its reality television show, *The Ultimate Fighter (TUF)*, in 2005. The dramatic season finale fight between Forrest Griffin and Stephan Bonnar attracted millions of viewers on Spike TV, sparking an unprecedented surge in pay-per-view buy rates and global popularity. Over the next decade, Zuffa absorbed competing organizations including PRIDE Fighting Championships, WEC, and Strikeforce.
+
+********************************************************************************
+
+
+========== CHUNK 4 ==========
+
+TYPE: prose
+BREADCRUMB: Corporate & Operational History > Endeavor Era & TKO Group Holdings (2016–Present)
+LENGTH: 394 chars
+--------------------------------------------------------------------------------
+PAGE CONTENT:
+### Endeavor Era & TKO Group Holdings (2016–Present)  
+In July 2016, Zuffa was acquired by a talent agency consortium led by WME-IMG (Endeavor) for $4 billion—the largest transaction in sports media history at the time. In April 2023, Endeavor announced a merger of the UFC with World Wrestling Entertainment (WWE) to create **TKO Group Holdings**, a publicly traded sports entertainment titan.
+
+********************************************************************************
+
+
+========== CHUNK 5 ==========
+
+TYPE: prose
+BREADCRUMB: Weight Divisions & Current Championship Structure
+LENGTH: 705 chars
+--------------------------------------------------------------------------------
+PAGE CONTENT:
+## Weight Divisions & Current Championship Structure
+
+## Rules, Scoring & Anti-Doping  
+### The Unified Rules of MMA  
+All UFC bouts are conducted under the Unified Rules. Rounds are 5 minutes long with 1-minute rest periods. Non-title bouts run for 3 rounds, while title bouts and main events run for 5 rounds. Judges score rounds using a **10-Point Must System** based on criteria prioritized in the following order:  
+1. **Effective Striking / Grappling:** Immediate impact, cumulative damage, and successful takedowns/submissions.
+2. **Effective Aggressiveness:** Attempting to finish the fight rather than passive volume.
+3. **Fighting Area Control:** Dictating the pace and position within the ring.
+
+********************************************************************************
+
+
+========== CHUNK 6 ==========
+
+TYPE: prose
+BREADCRUMB: Rules, Scoring & Anti-Doping > Key Foul Violations
+LENGTH: 336 chars
+--------------------------------------------------------------------------------
+PAGE CONTENT:
+### Key Foul Violations  
+* Headbutting, eye-gouging, or biting
+* Striking the back of the head or spine (rabbit punches)
+* Kneeling or kicking a grounded opponent in the head
+* Groin attacks or fish-hooking
+* Grabbing the fence or opponent's shorts
+* 12-to-6 vertical elbow strikes (Note: Revised/eased by several athletic commissions)
+
+********************************************************************************
+
+
+========== CHUNK 7 ==========
+
+TYPE: prose
+BREADCRUMB: Rules, Scoring & Anti-Doping > Anti-Doping & Performance Institute
+LENGTH: 451 chars
+--------------------------------------------------------------------------------
+PAGE CONTENT:
+### Anti-Doping & Performance Institute  
+In 2015, the UFC established an independent anti-doping program initially managed by the United States Anti-Doping Agency (USADA), which was later transitioned to Drug Free Sport International (DFSI) in 2024. In 2017, the organization opened the 30,000 sq ft **UFC Performance Institute** in Las Vegas, offering fighters free high-performance training, physical therapy, nutrition, and sports science support.
+
+********************************************************************************
+
+
+========== CHUNK 8 ==========
+
+TYPE: table
+BREADCRUMB: N/A
+HEADING: Weight Divisions & Current Championship Structure
+LENGTH: 621 chars
+--------------------------------------------------------------------------------
+PAGE CONTENT:
+[Weight Divisions & Current Championship Structure]
+| Division | Upper Weight Limit | Category | Inaugural Year |
+|---|---|---|---|
+| Heavyweight | 265 lb (120.2 kg) | Men | 1997 |
+| Light Heavyweight | 205 lb (93.0 kg) | Men | 1997 |
+| Middleweight | 185 lb (83.9 kg) | Men | 2001 |
+| Welterweight | 170 lb (77.1 kg) | Men | 1998 |
+| Lightweight | 155 lb (70.3 kg) | Men | 2001 |
+| Featherweight | 145 lb (65.8 kg) | Men | 2010 |
+| Bantamweight | 135 lb (61.2 kg) | Men / Women | 2010 (M) / 2012 (W) |
+| Flyweight | 125 lb (56.7 kg) | Men / Women | 2012 (M) / 2017 (W) |
+| Strawweight | 115 lb (52.2 kg) | Women | 2014 |
+
+********************************************************************************
+
+
+========== CHUNK 9 ==========
+
+TYPE: table
+BREADCRUMB: N/A
+HEADING: Hall of Fame (Notable Pioneers & Modern Era)
+LENGTH: 777 chars
+--------------------------------------------------------------------------------
+PAGE CONTENT:
+[Hall of Fame (Notable Pioneers & Modern Era)]
+| Inductee | Wing | Year Inducted | Key Achievement |
+|---|---|---|---|
+| Royce Gracie | Pioneer Wing | 2003 | UFC 1, 2, and 4 Tournament Champion |
+| Ken Shamrock | Pioneer Wing | 2003 | Inaugural Superfight Champion |
+| Chuck Liddell | Pioneer Wing | 2009 | Longtime Light Heavyweight Champion & PPV draw |
+| Georges St-Pierre | Modern Wing | 2020 | 9 consecutive Welterweight title defenses; 2-division champion |
+| Khabib Nurmagomedov | Modern Wing | 2022 | Undefeated 29-0 record; 3 Lightweight title defenses |
+| Ronda Rousey | Modern Wing | 2018 | Inaugural Women's Bantamweight Champion; 6 title defenses |
+| Anderson Silva | Pioneer/Modern Wing | 2023 | Longest title reign in UFC history (2,457 days, 16 straight wins) |
+
+********************************************************************************
+
+
+========== CHUNK 10 ==========
+
+TYPE: table
+BREADCRUMB: N/A
+HEADING: Corporate Profile
+LENGTH: 319 chars
+--------------------------------------------------------------------------------
+PAGE CONTENT:
+[Corporate Profile]
+| Industry | Combat Sports / Entertainment |
+|---|---|
+| Founded | November 12, 1993 |
+| Headquarters | Las Vegas, Nevada, U.S. |
+| Parent Company | TKO Group Holdings |
+| CEO | Dana White |
+| Broadcast Partners | ESPN / Paramount / Global Broadcasters |
+| Training Hub | UFC Performance Institute |
+
+********************************************************************************

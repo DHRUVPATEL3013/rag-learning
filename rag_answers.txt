@@ -1,0 +1,10 @@
+
+Q: What is the 'Retrieve-Read' framework?
+A: I don't know based on the provided context.
+****************************************************************************************************
+Q: What are the differences between iterative, recursive, and adaptive retrieval?
+A: The context describes iterative retrieval as alternating between retrieval and generation to provide richer and more targeted context from the knowledge base at each step ([A. Iterative Retrieval] and Figure 5). Recursive retrieval involves iteratively refining search queries and breaking down problems into sub-problems to gradually converge on pertinent information through a feedback loop ([B. Recursive Retrieval] and Figure 5). Adaptive retrieval enables the RAG system to autonomously determine whether external knowledge retrieval is necessary and when to stop the process, typically using LLM-generated special tokens for control (Figure 5).
+****************************************************************************************************
+Q: Who is the CEO of OpenAI according to this paper?
+A: I don't know based on the provided context.
+****************************************************************************************************

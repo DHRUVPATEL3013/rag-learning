@@ -1,0 +1,18 @@
+Chunk 1
+
+Employee Attendance Policy
+Working Hours
+Employees are expected to work 8 hours per working day, Monday through Friday.
+Office Arrival
+Employees should arrive at the office by 9:30 AM unless they have an approved flexible-work
+arrangement.
+Late Arrival
+Employees arriving more than 30 minutes late should inform their manager and record the reason in the
+attendance system.
+Remote Work
+Employees working remotely must remain available during the agreed working hours and attend
+scheduled meetings.
+
+{'breadcrumb': '', 'source': 'employee_attendance_policy'}
+****************************************************************************************************
+

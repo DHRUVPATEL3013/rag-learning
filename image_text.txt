@@ -1,0 +1,10 @@
+== What is RAG ——
+
+Retrieving relevant data and generating accurate,
+context-aware responses to improve Al outputs.
+
+R Retrieve Find useful information
+A Augment | Audit to the Al's knowledge
+
+G Generate | Create a better response
+
